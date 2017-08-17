@@ -1,5 +1,5 @@
 # music-player
-a music player built with react
+a music player build with react
 
 
 ### 如何运行
